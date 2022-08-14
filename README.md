@@ -15,5 +15,5 @@ I'm a Student of AltSchool Africa [School of Software Engineering](https://altsc
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=sharafudeenabdurrahmanoladeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Sharafudeen's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharafudeenabdurrahmanoladeji&langs_count=8&layout=compact&hide_border=true" alt="Sharafudeen's GitHub stats" /> |
 | ------------- | ------------- |
